@@ -1,0 +1,51 @@
+body {
+background: #c31432;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.aboutt {
+  margin-left: 70px;
+  font-size: 25px;
+  color: rgb(255,0,255);
+    -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: black;
+}
+.abot {
+  margin-top: -12px;
+  margin-left: 40px;
+  font-size: 25px;
+  color: rgb(255,0,255);
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: black;
+}
+.afterhr {
+   color: rgb(150,100,255);
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: black;
+  margin-left: 10px;
+}
+
+.videoindex {
+  width: 320px;
+  height: 240px;
+  margin-left: 700px;
+}
+
+.gmod {
+  margin-left: 100px;
+  color: rgb(255,155,255);
+  font-size: 20px;
+}
+
+.more {
+  margin-left: 125px;
+  font-size: 17px;
+    -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: black;
+
+}
+
+.margin100 {
+  margin-left: 100px;
+}
+
